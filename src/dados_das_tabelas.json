@@ -1,0 +1,43 @@
+[
+    {
+        "table": "tb_imp",
+        "path": "../data/imp_2025.csv"
+    },
+    {
+        "table": "tb_ncm_unidades",
+        "path":"../data/ncm_unidades.csv"
+    },
+    {
+        "table": "tb_ncm",
+        "path":"../data/ncm.csv"
+    },
+    {
+        "table": "tb_pais_bloco",
+        "path":"../data/pais_bloco.csv"
+    },
+    {
+        "table": "tb_pais",
+        "path":"../data/pais.csv"
+    },
+    {
+        "table": "tb_uf_mun",
+        "path":"../data/uf_mun.csv"
+    },
+    {
+        "table": "tb_uf",
+        "path":"../data/uf.csv"
+    },
+    {
+        "table": "tb_urf",
+        "path":"../data/urf.csv"
+    },
+    {
+        "table": "tb_via",
+        "path":"../data/via.csv"
+    },
+    {
+        "table": "tb_ncm_cgce",
+        "path":"../data/ncm_cgce.csv"
+    }
+
+]
