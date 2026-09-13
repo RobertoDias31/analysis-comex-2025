@@ -4,6 +4,8 @@ Dashboard sobre o custo logístico das importações brasileiras de 2025, constr
 
 Cada registro do Comex Stat não é uma declaração de importação: é o total de todas as operações de um mesmo mês, produto, país de origem, estado, modal de transporte e local de entrada.
 
+<img src="imagesGithub/dashboard.png" width="600">
+
 ---
 
 ## Como cada análise foi feita
